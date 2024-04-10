@@ -1,0 +1,26 @@
+.main{
+  border:outset rgb(150, 89, 89) 3px;
+  display: inline-block;
+  text-align: center;
+  max-width: 240px;
+  max-height: 300px;
+  margin: 20px;
+
+  padding: 10px;
+ 
+}
+
+.main img{
+  border-radius: 50%;
+  margin: 4px;
+}
+
+.main h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin:0;
+}
+
+.main p{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin:5;
+}
